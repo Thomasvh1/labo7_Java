@@ -1,0 +1,483 @@
+ras,gewicht_reu,gewicht_teef,leeftijd
+Affenpinscher,4.0000,3.0000,14-15
+Afghaanse Windhond,27.0000,23.0000,12-14
+Aidi,24.0000,24.0000,10-11
+Airedale Terrier,20.0000,20.0000,13
+Akita Amerikaanse,35.0000,30.0000,NULL
+Akita Inu,45.0000,40.0000,10-12
+Akita Japanse,35.0000,30.0000,NULL
+Alaskan Klee Kai,10.0000,6.0000,12
+Alaskan Malamute,38.0000,31.0000,12
+American Hairless Terrier,7.0000,5.0000,14-16
+Amerikaanse Cocker Spaniel,14.0000,12.0000,13-14
+Amerikaanse Eskimohond,8.0000,6.0000,12-13
+Amerikaanse Haarloze Terrier,7.0000,5.0000,14-16
+Amerikaanse Husky,40.0000,37.0000,NULL
+Amerikaanse Naakthond,7.0000,5.0000,14-16
+Amerikaanse Staffordshire Terrier,20.0000,20.0000,12
+Amerikaanse Staghound,40.0000,30.0000,10-12
+Amerikaanse Toy Terrier,2.0000,2.0000,13-14
+Amerikaanse Wolfhond,38.0000,28.0000,NULL
+Amertoy Terrier,2.0000,2.0000,13-14
+Anglo-Français Blanc et Noir Grand,35.0000,35.0000,10
+Anglo-Français Tricolore Grand,35.0000,35.0000,10
+Appenzeller Sennenhond,32.0000,28.0000,11-13
+Apso Seng Kyi,6.0000,4.0000,NULL
+Arabische Windhond,26.0000,22.0000,12
+Australian Cattle Dog,18.0000,18.0000,12
+Australian Cobberdog,30.0000,30.0000,NULL
+Australian Shepherd,24.0000,24.0000,12-13
+Australische Herder,24.0000,24.0000,12-13
+Australische Silky Terrier,5.0000,4.0000,14
+Australische Terrier,6.0000,6.0000,14
+Azawakh,25.0000,17.0000,12
+Baluchi Windhond,27.0000,23.0000,NULL
+Barbet,20.0000,20.0000,12-14
+Barzoi,44.0000,40.0000,11-13
+Bas Rouge,35.0000,45.0000,11-13
+Basenji,11.0000,10.0000,12
+Basset Artésien-Normand,15.0000,15.0000,13-15
+Basset Bleu de Gascogne,17.0000,17.0000,12-13
+Basset Fauve de Bretagne,17.0000,17.0000,12-14
+Basset Griffon Vendéen Grand,20.0000,18.0000,12
+Basset Griffon Vendéen Petit,16.0000,16.0000,12
+Bassethound,25.0000,25.0000,12
+Bayerischer Gebirgs-Schweisshund,35.0000,25.0000,12
+Beagle,15.0000,15.0000,13
+Bearded Collie,25.0000,20.0000,12-13
+Beauceron,35.0000,45.0000,11-13
+Bedlington Terrier,9.0000,9.0000,14-15
+Bergamasco,35.0000,30.0000,11-13
+Berger de Beauce,35.0000,45.0000,11-13
+Berger de Picardie,32.0000,30.0000,12-13
+Berger Picard,32.0000,30.0000,12-13
+Berner Laufhund,18.0000,18.0000,12-13
+Berner Sennenhond,50.0000,45.0000,NULL
+Bichon à Poil Frisé,4.0000,4.0000,14
+Bichon Frisé,4.0000,4.0000,14
+Bichon Maltais,4.0000,3.0000,NULL
+Bichon Ténériffe,4.0000,4.0000,14
+Biewer Terrier,3.5000,3.5000,NULL
+Biewer Yorkshire Terrier,3.5000,3.5000,NULL
+Billy,33.0000,25.0000,12-13
+Black and Tan Terrier,8.0000,8.0000,NULL
+Black and Tan Toy Terrier,4.0000,3.0000,12-13
+Bleu de Gascogne Grand,35.0000,32.0000,12-14
+Bleu de Gascogne Petit,20.0000,20.0000,12
+Bleu Heeler,18.0000,18.0000,12
+Bloedhond,45.0000,41.0000,10-12
+Bobtail,30.0000,30.0000,12-13
+Boerboel,80.0000,80.0000,NULL
+Boheemse Herder,25.0000,16.0000,NULL
+Bolognezer,4.0000,3.0000,14
+Bolonka Franzuska,5.0000,5.0000,NULL
+Boolomo,35.0000,35.0000,13-14
+Bordeaux Dog,50.0000,45.0000,9-11
+Border Collie,25.0000,20.0000,12-14
+Border Terrier,6.0000,5.0000,13-14
+Boston Bull,12.0000,7.0000,NULL
+Boston Terrier,11.0000,11.0000,13
+Bouledogue Francais,15.0000,11.0000,NULL
+Bouvier,40.0000,35.0000,11-12
+Boxer,35.0000,30.0000,11-12
+Boykin Spaniel,15.0000,15.0000,NULL
+Bracco Italiano,35.0000,30.0000,12-13
+Brak Hamilton,27.0000,23.0000,12-13
+Braque de l'Ariège,30.0000,25.0000,12-14
+Braque du Bourbonnais,22.0000,22.0000,12-14
+Braque Français,30.0000,24.0000,12-14
+Braque Français de Petite Taille,30.0000,24.0000,12-14
+Braque Saint-Germain,24.0000,20.0000,12-14
+Braziliaanse Terrier,8.0000,8.0000,12-14
+Bretoense Spaniel,30.0000,25.0000,NULL
+Briard,39.0000,34.0000,NULL
+Bulgaarse Herdershond,48.0000,38.0000,NULL
+Bull Terrier,26.0000,26.0000,11-13
+Bull Terrier Miniature,14.0000,12.0000,12-13
+Bullmastiff,57.0000,45.0000,10-12
+Cairn Terrier,7.0000,6.0000,14
+Cane Corso,45.0000,40.0000,NULL
+Cane da Pastore,40.0000,35.0000,10-12
+Cane da Pastore Bergamasco,35.0000,30.0000,11-13
+Cao da Serra da Estrela,40.0000,40.0000,10-12
+Cao da Serra de Aires,16.0000,14.0000,12-13
+Cao de Agua Portugues,22.0000,18.0000,12-14
+Cao de fila de Sao Miguel,30.0000,25.0000,NULL
+Carlin,8.0000,6.0000,NULL
+Carolina Dog,16.0000,16.0000,12-14
+Catahoula Leopard,35.0000,29.0000,10-14
+Caucasian Owcharka,65.0000,60.0000,9-11
+Cavalier King Charles Spaniel,8.0000,6.0000,9-11
+Ceskoslovensky Vlcak,26.0000,20.0000,12-18
+Cesky Fousek,31.0000,25.0000,12-13
+Cesky Terrier,8.0000,7.0000,12-14
+Chart Polski,40.0000,30.0000,12
+Chesapeake Bay Retriever,32.0000,27.0000,12-13
+Chien de Berger Belge,28.0000,28.0000,12-13
+Chien de Montagne des Pyrénées,60.0000,45.0000,9-11
+Chien de Pays,24.0000,24.0000,12
+Chien de Saint Hubert,45.0000,41.0000,10-12
+Chien Français Blanc et Noir,35.0000,35.0000,10
+Chien Français Tricolore,35.0000,35.0000,10
+Chien Loup,35.0000,35.0000,13-14
+Chihuahua (kortharig),3.0000,2.0000,13-14
+Chihuahua (langharig),3.0000,2.0000,13-14
+Chinese Naakthond,5.0000,3.0000,12-14
+Chinook,35.0000,35.0000,13-14
+Chodsky Pes,25.0000,16.0000,NULL
+Chornyi Terrier,55.0000,65.0000,10-11
+Chow Chow,27.0000,24.0000,11-12
+Chrysanthemum Dog,7.0000,4.0000,NULL
+Cirneco Dell'Etna,11.0000,9.0000,8-12
+Clumber Spaniel,32.0000,32.0000,12-13
+Collie (kortharig),24.0000,20.0000,12-13
+Collie (langharig),24.0000,20.0000,12-13
+Coonhound,34.0000,30.0000,11-12
+Coton de Tulear,5.0000,4.0000,13-14
+Curly Coated Retriever,36.0000,32.0000,12-13
+Dalmatier,27.0000,24.0000,12
+Dandie Dinmont Terrier,10.0000,8.0000,13-14
+Deense Dog,65.0000,60.0000,9-10
+Deerhound,42.0000,32.0000,11-12
+Deutcher Jagdterrier,8.0000,8.0000,12
+Deutsche Dogge,65.0000,60.0000,9-10
+Deutscher Spitz,35.0000,35.0000,13-14
+Dhoki Apso,13.0000,12.0000,NULL
+Dingo,15.0000,15.0000,10
+Do-Khyi,70.0000,75.0000,10-11
+Dobermann,37.0000,29.0000,12
+Dog Deense,65.0000,60.0000,9-10
+Dogo Canario,50.0000,45.0000,9-11
+Drentse Patrijshond,32.0000,25.0000,12-13
+Drever,15.0000,15.0000,12-14
+Duitse Dog,65.0000,60.0000,9-10
+Duitse Herder,35.0000,27.0000,12-13
+Duitse Jachtterrier,8.0000,8.0000,12
+Duitse Keeshond,14.0000,14.0000,12-15
+Duitse Pinscher,16.0000,14.0000,12-14
+Duitse Spits,35.0000,35.0000,13-14
+Duitse Staande (draadharig),30.0000,30.0000,12-14
+Duitse Staande (kortharig),30.0000,30.0000,12-14
+Duitse Staande (langharig),30.0000,30.0000,12-14
+Duitse Staande (ruwharig),30.0000,30.0000,12-14
+Duitse Wolfspits,30.0000,30.0000,12-14
+Dwergpinscher,16.0000,14.0000,12-14
+Dwergschnauzer,7.0000,6.0000,14
+Engelse Beagle,15.0000,15.0000,13
+Engelse Bulldog,25.0000,23.0000,7-9
+Engelse Cocker Spaniel,14.0000,12.0000,13-14
+Engelse Pointer,30.0000,25.0000,NULL
+Engelse Setter,30.0000,25.0000,12-13
+Engelse Springer Spaniel,23.0000,23.0000,12-14
+Engelse Toy Terrier,4.0000,3.0000,12-13
+Entlebucher Sennenhond,30.0000,25.0000,11-13
+Epagneul Bleu de Picardie,20.0000,20.0000,12
+Epagneul Breton,15.0000,15.0000,12-14
+Epagneul de Pont-Audemer,20.0000,20.0000,12-14
+Epagneul de Saint-Usuge,25.0000,25.0000,NULL
+Epagneul Français,25.0000,20.0000,12-14
+Epagneul Nain Papillon,4.0000,3.0000,13-15
+Epagneul Nain Phalène,4.0000,4.0000,13-15
+Epagneul Picard,20.0000,20.0000,12-14
+Eskie,10.0000,6.0000,12
+Eskimohond,40.0000,40.0000,12-13
+Eskimohond Amerikaanse,10.0000,6.0000,12
+Esquimaux,40.0000,37.0000,NULL
+Eurasier,26.0000,21.0000,11-12
+Faraohond,24.0000,22.0000,12-14
+Field Spaniel,20.0000,20.0000,12-13
+Fila Brasileiro,50.0000,40.0000,9-11
+Finse Lappenhond,19.0000,19.0000,14
+Finse Spits,15.0000,15.0000,12-14
+Finsk Spits,14.0000,12.0000,NULL
+Flatcoated Retriever,30.0000,26.0000,11-13
+Fox Paulistinha,8.0000,8.0000,12-14
+Fox Terrier (draadharig),8.0000,8.0000,13-14
+Fox Terrier (gladharig),8.0000,8.0000,13-14
+Fox Terrier (kortharig),8.0000,8.0000,13-14
+Franse Bulldog,12.0000,10.0000,11-12
+Galgo Espanol,26.0000,24.0000,14
+Gascon-Saintongeois Grand,30.0000,30.0000,11-12
+Gazelle hond,24.0000,19.0000,NULL
+Glen Of Imaal Terrier,16.0000,16.0000,13-14
+Golden Retriever,34.0000,28.0000,12-13
+Goldendoodle,18.0000,16.0000,NULL
+Gonczy Polski,24.0000,24.0000,NULL
+Gordon Setter,30.0000,25.0000,12-13
+Gos d'Atura,18.0000,17.0000,12-14
+Gos d'Atura Catala,18.0000,17.0000,12-14
+Greyhound,31.0000,27.0000,10-12
+Greyhound Rampur,30.0000,30.0000,13
+Griffon à Poil Dur,25.0000,25.0000,12-13
+Griffon Belge,5.0000,3.0000,12-14
+Griffon Bleu de Gascogne Petit,19.0000,18.0000,12
+Griffon Fauve de Bretagne,20.0000,20.0000,12-13
+Griffon Nivernais,24.0000,24.0000,12
+Groenendaeler,28.0000,28.0000,12-13
+Groenlandhond,31.0000,31.0000,13
+Grote Japanse Hond,50.0000,40.0000,10-13
+Grote Zwitserse Sennenhond,60.0000,60.0000,10-11
+Hall's Heeler,18.0000,18.0000,12
+Hamilton Brak,27.0000,23.0000,12-13
+Harrier,25.0000,20.0000,12
+Havanezer,6.0000,6.0000,14
+Herder Oudduitse,35.0000,35.0000,14-16
+Hokkaido Hond,25.0000,25.0000,11-13
+Hollandse Herder (kortharig),35.0000,35.0000,12-14
+Hollandse Herder (langharig),35.0000,35.0000,NULL
+Hollandse Herder (ruwharig),35.0000,35.0000,12-14
+Hollandse Smoushond,10.0000,9.0000,12-15
+Hongaarse Waterhond,14.0000,12.0000,12-13
+Hongaarse Windhond,25.0000,25.0000,12-14
+Hovawart,35.0000,33.0000,12-13
+Ierse Setter,25.0000,22.0000,12-13
+Ierse Terrier,12.0000,11.0000,13
+Ierse Water Spaniel,25.0000,25.0000,12-14
+Ierse Wolfshond,55.0000,41.0000,9
+Ijslandse Hond,14.0000,10.0000,12
+Inca Orchid,17.0000,17.0000,11-12
+Indische Windhond,30.0000,30.0000,13
+Irish Blue Terrier,18.0000,15.0000,NULL
+Irish Red Terrier,12.0000,11.0000,NULL
+Italiaans Windhondje,4.0000,3.0000,13-14
+Jack Russel Terrier,7.0000,7.0000,13-14
+Jämthund,30.0000,30.0000,12-13
+Japanse Akita,35.0000,30.0000,NULL
+Japanse Spaniel,4.0000,3.0000,12-13
+Japanse Spits,8.0000,6.0000,15
+Japanse Terrier,6.0000,5.0000,12-14
+Kai,18.0000,16.0000,11-13
+Kanaänhond,20.0000,20.0000,12-13
+Kangal,60.0000,50.0000,NULL
+Karabash,55.0000,50.0000,10-11
+Karakachan,48.0000,38.0000,NULL
+Karelische Berenhond,26.0000,18.0000,10-12
+Keeshond Duitse,35.0000,35.0000,13-14
+Keeshond Dwerg,3.0000,2.0000,15
+Keeshond Groot,28.0000,26.0000,12-14
+Keeshond Middenslag,12.0000,12.0000,12-14
+Kelf K'naani,20.0000,20.0000,12-13
+Kerry Beagle,26.0000,22.0000,11-12
+Kerry Blue Terrier,18.0000,15.0000,14
+King Charles Spaniel,5.0000,5.0000,11-12
+Kleine Portugese Hond,10.0000,10.0000,10-12
+Kokoni,6.0000,6.0000,14
+Komondor,50.0000,50.0000,12
+Kooikerhondje,11.0000,9.0000,12-13
+Koordpoedel,25.0000,25.0000,11-13
+Koreaanse Jindo Dog,18.0000,16.0000,11-12
+Krazski Ovcar,40.0000,35.0000,NULL
+Kuvasz,45.0000,45.0000,11-13
+Kwartelhond,28.0000,22.0000,12-14
+Labradoodle Medium,20.0000,20.0000,NULL
+Labradoodle Miniature,15.0000,15.0000,NULL
+Labradoodle Standaard,30.0000,30.0000,NULL
+Labrador Retriever,32.0000,28.0000,12-13
+Laekense Herder,28.0000,28.0000,12-13
+Lagotto Romagnolo,15.0000,12.0000,12-14
+Lakeland Terrier,8.0000,7.0000,13-14
+Lancashire Heeler,4.0000,6.0000,NULL
+Landseer,65.0000,55.0000,9-11
+Lapinporokoira,30.0000,27.0000,11-12
+Leeuwhondje,8.0000,4.0000,13-14
+Leonberger,45.0000,40.0000,9-11
+Lhasa Apso,6.0000,4.0000,12-14
+Lundehund,8.0000,7.0000,12
+Lurcher,30.0000,30.0000,13
+Luzerner Laufhund,18.0000,18.0000,12-13
+Magyar Agar,25.0000,25.0000,12-14
+Maliki,35.0000,35.0000,13-14
+Maltezer,4.0000,3.0000,14
+Manchester Terrier,8.0000,6.0000,13-14
+Maremma,40.0000,35.0000,10-12
+Maremmano,40.0000,35.0000,10-12
+Maremmano-Abruzzese,40.0000,35.0000,10-12
+Marigung,35.0000,35.0000,13-14
+Mastiff,85.0000,80.0000,9-11
+Mastin Espanol,65.0000,60.0000,9-11
+Mastino Napoletano,60.0000,50.0000,9-11
+Mechelse Herder,28.0000,28.0000,12-13
+Mexicaanse Naakthond,12.0000,12.0000,12-15
+Middenslag Schnauzer,15.0000,15.0000,12-14
+Miniature Australian Shepherd,12.0000,12.0000,12-13
+Miniatuur Pinscher,16.0000,14.0000,12-14
+Mittelschnauzer,15.0000,15.0000,12-14
+Monkey Dog,4.0000,3.0000,14-15
+Mops,8.0000,6.0000,NULL
+Mopshond,7.0000,7.0000,13-14
+Mudi,10.0000,10.0000,13-14
+Münsterländer Groot,29.0000,25.0000,12-13
+Münsterländer Klein,15.0000,15.0000,13-14
+Naakthond Amerikaanse,7.0000,5.0000,14-16
+Naakthond Peruaanse,10.0000,10.0000,10-12
+New Guinea Singing Dog,10.0000,10.0000,10-12
+Newfoundlander,65.0000,55.0000,9-11
+Noggum,35.0000,35.0000,13-14
+Noorse Buhund,18.0000,15.0000,12-15
+Noorse Elandhond,18.0000,18.0000,12-13
+Norfolk Terrier,5.0000,5.0000,14
+Norrbottenspets,14.0000,13.0000,12-14
+North American Native Dog,10.0000,6.0000,12
+Norwich Terrier,5.0000,5.0000,14
+Nova Scotia Duck Tolling Retriever,22.0000,18.0000,12-13
+Old English Bulldog,30.0000,27.0000,NULL
+Oostenrijkse Pinscher,15.0000,15.0000,12-14
+Oostsiberische Laika,20.0000,20.0000,10-12
+Österreichischer Kurzhaariger Pincher,15.0000,15.0000,12-14
+Otterhound,52.0000,45.0000,12
+Oud Engelse Bulldog,30.0000,27.0000,NULL
+Oudduitse Herder,35.0000,35.0000,14-16
+Owczarek Nizinny,20.0000,18.0000,NULL
+Papillon,4.0000,3.0000,13-15
+Parson Russel Terrier,7.0000,6.0000,13-14
+Patterdale Terrier,6.0000,5.0000,13-14
+Peintinger Brak,16.0000,16.0000,12
+Peking Palasthund,6.0000,6.0000,NULL
+Pekingees,4.0000,4.0000,12-13
+Perdiguero de Burgos,27.0000,27.0000,12-14
+Perdiguero Portugues,20.0000,20.0000,12-14
+Perro de Agua Espanõl,16.0000,16.0000,10-14
+Perro de Presa Canario,50.0000,45.0000,9-11
+Perro de Presa Mallorquin,36.0000,36.0000,10-12
+Peruaanse Naakthond,6.0000,6.0000,11-12
+Perzische Windhond,24.0000,19.0000,NULL
+Picardische Herder,32.0000,30.0000,12-13
+Pinscher,16.0000,14.0000,12-14
+Pinscher Miniatuur,5.0000,4.0000,13-14
+Pit Bull Terrier,25.0000,20.0000,NULL
+Plummer Terrier,6.0000,6.0000,13-15
+Podenco Canario,19.0000,19.0000,12-13
+Podenco Ibicenco,24.0000,20.0000,12
+Podenco Portugues,18.0000,18.0000,12-14
+Podenco Portugues Pequeno,5.0000,5.0000,12-14
+Poedel Dwerg,14.0000,12.0000,12-15
+Poedel Middenslag,12.0000,12.0000,12-15
+Poedel Standaard,25.0000,25.0000,11-13
+Poedel Toy,7.0000,7.0000,12-15
+Poedelpointer,25.0000,25.0000,12-14
+Pointer,30.0000,20.0000,12-13
+Pointer Engelse,30.0000,25.0000,NULL
+Poitevin,30.0000,30.0000,12
+Pomsky,16.0000,12.0000,NULL
+Porcelaine,26.0000,26.0000,12-13
+Praagse Rattenvanger,2.6000,2.6000,NULL
+Prazsky Krysarik,2.6000,2.6000,NULL
+Pstore Abruzzese,40.0000,35.0000,10-12
+Puli,14.0000,12.0000,12-13
+Pumi,14.0000,12.0000,12-13
+Pyrenese Berghond,60.0000,45.0000,9-11
+Pyrenese Herder,14.0000,10.0000,12-13
+Queensland Heeler,18.0000,18.0000,12
+Rampur Greyhound,28.0000,28.0000,10-12
+Ratlerek,2.6000,2.6000,NULL
+Rhodesian Ridgeback,36.0000,32.0000,12
+Riesenschnauzer,35.0000,35.0000,11-12
+Rothbury Terrier,9.0000,9.0000,14-15
+Rottweiler,50.0000,45.0000,10-11
+Russisch-Europese Laika,22.0000,22.0000,10-12
+Russische Toy Terrier,2.3000,2.3000,NULL
+Russische Wolfshond,41.0000,34.0000,NULL
+Russkiy Toy,2.3000,2.3000,NULL
+Russkji Tchornji Terrier,55.0000,65.0000,10-11
+Saarloos Wolfhond,40.0000,37.0000,10-12
+Sabueso Espanol,25.0000,20.0000,11-13
+Saint-Usuge Epagneul,25.0000,25.0000,NULL
+Saluki,24.0000,19.0000,12
+Samojeed,28.0000,26.0000,12
+Samoyedskaya,25.0000,21.0000,NULL
+Sar Planina,65.0000,45.0000,11-12
+Schapendoes,18.0000,13.0000,13-15
+Schipperke,6.0000,4.0000,12-13
+Schnauzer,15.0000,15.0000,12-14
+Schnauzer Dwerg,7.0000,6.0000,14
+Schnauzer Middenslag,15.0000,15.0000,12-14
+Schotse Deerhound,43.0000,33.0000,NULL
+Schotse Terrier,9.0000,8.0000,13-14
+Schweizer Laufhund,18.0000,18.0000,12-13
+Sealyham Terrier,9.0000,8.0000,14
+Shar Pei,18.0000,18.0000,11-12
+Shetland Sheepdog,7.0000,6.0000,13-14
+Shiba Inu,10.0000,8.0000,12-13
+Shih Tzu,7.0000,5.0000,12-14
+Shikoku,20.0000,15.0000,11-13
+Siberische Husky,24.0000,20.0000,11-13
+Sint Bernard,80.0000,65.0000,9-11
+Sivas Kangal Köpegi,60.0000,50.0000,NULL
+Skye Terrier,10.0000,9.0000,13
+Sloughi,26.0000,22.0000,12
+Slovensky Cuvac,40.0000,35.0000,NULL
+Slowaakse Staande,30.0000,30.0000,12-14
+Slowaakse Tchouvatch,40.0000,35.0000,NULL
+Soft-Coated Wheaten Terrier,18.0000,18.0000,13-14
+Spinone,35.0000,30.0000,12-13
+Spion,17.0000,15.0000,NULL
+Spits Duitse,35.0000,35.0000,13-14
+Stabyhoun,20.0000,15.0000,12-14
+Staffordshire Bull Terrier,15.0000,12.0000,11-12
+Stövare Hamilton,27.0000,23.0000,12-13
+Suomenpystykorva,14.0000,12.0000,NULL
+Sussex Spaniel,20.0000,20.0000,12-13
+Tamaskan,38.0000,28.0000,NULL
+Tatra,55.0000,50.0000,9-11
+Tazi,27.0000,23.0000,NULL
+Teckel Dwerg (kortharig),5.0000,4.0000,11-12
+Teckel Dwerg (langharig),5.0000,4.0000,11-12
+Teckel Dwerg (ruwharig),5.0000,4.0000,11-12
+Teckel Standaard (kortharig),8.0000,7.0000,11-12
+Teckel Standaard (langharig),8.0000,7.0000,11-12
+Teckel Standaard (ruwharig),8.0000,7.0000,11-12
+Terier Brasileiro,8.0000,8.0000,12-14
+Terrier Amerikaanse Haarloze,7.0000,5.0000,14-16
+Terrier Amerikaanse Toy,2.0000,2.0000,13-14
+Terrier Black and Tan,8.0000,8.0000,NULL
+Terrier Chornyi,55.0000,65.0000,10-11
+Terrier Engelse Toy,4.0000,3.0000,12-13
+Terrier Fox (gladharig),8.0000,8.0000,13-14
+Terrier Irish Blue,18.0000,15.0000,NULL
+Terrier Irish Red,12.0000,11.0000,NULL
+Terrier Rothbury,9.0000,9.0000,14-15
+Terrier Russkji Tchornji,55.0000,65.0000,10-11
+Terrier Toy Manchester,4.0000,3.0000,12-13
+Terrier Tsjechische,8.0000,7.0000,12-14
+Terrier Waterside,20.0000,20.0000,13
+Tervuerense Herder,28.0000,28.0000,12-13
+Thai Ridgeback,32.0000,25.0000,12-13
+Tibetaanse Mastiff,70.0000,75.0000,10-11
+Tibetaanse Spaniel,7.0000,4.0000,13-14
+Tibetaanse Terrier,13.0000,12.0000,13-14
+Tosa Inu,45.0000,35.0000,9-11
+Toy Manchester Terrier,4.0000,3.0000,12-13
+Tsjechische Herder,25.0000,16.0000,NULL
+Tsjechische Terrier,8.0000,7.0000,12-14
+Tsjechoslowaakse Wolfhond,26.0000,20.0000,12-18
+Västgötaspets,14.0000,12.0000,12-14
+Vizsla (kortharig),30.0000,22.0000,13-14
+Volpino Italiano,5.0000,5.0000,14-15
+Vostotchno-Sibirskaia Laika,20.0000,20.0000,10-12
+Warrigal,35.0000,35.0000,13-14
+Waterhond Hongaarse,14.0000,12.0000,12-13
+Waterside Terrier,20.0000,20.0000,13
+Weimaraner,35.0000,30.0000,12-13
+Welsh Corgi Cardigan,16.0000,12.0000,12-14
+Welsh Corgi Pembroke,10.0000,9.0000,12-14
+Welsh Springer Spaniel,20.0000,16.0000,12-14
+Welsh Terrier,9.0000,9.0000,14
+West Highland White Terrier,8.0000,7.0000,14
+Westsiberische Laika,22.0000,20.0000,10-12
+Wetterhound,25.0000,25.0000,10-12
+Whippet,13.0000,12.0000,13-14
+Windhond Arabische,26.0000,22.0000,12
+Windhond Baluchi,27.0000,23.0000,NULL
+Windhond Hongaarse,25.0000,25.0000,12-14
+Windhond Indische,30.0000,30.0000,13
+Windhond Perzische,24.0000,19.0000,NULL
+Wolfshond Russische,41.0000,34.0000,NULL
+Wolfspits,28.0000,26.0000,12-14
+Yorkshire Terrier,3.0000,2.0000,14
+Zuid Russische Owcharka,65.0000,60.0000,9-11
+Zwart Russische Terrier,55.0000,65.0000,10-11
+Zweedse Lappenhond,20.0000,20.0000,12-13
+Zwergpinscher,5.0000,4.0000,13-14
+Zwergschnauzer,7.0000,6.0000,14
+Zwitserse Laufhund,18.0000,18.0000,12-13
+Zwitserse Witte Herder,35.0000,30.0000,11-13
