@@ -9,15 +9,15 @@ public class Dog {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private Integer id = 0;
+    private int id;
     @Column(name = "name")
-    private String name = "";
+    private String name;
     @Column(name = "mass_male")
-    private Double maleMass = 0.0;
+    private Double maleMass;
     @Column(name = "mass_female")
-    private Double femaleMass = 0.0;
+    private Double femaleMass;
     @Column(name = "age")
-    private String age = "";
+    private String age;
 
     public Dog() {
     }
