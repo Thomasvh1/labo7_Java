@@ -15,7 +15,5 @@
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.hbm2ddl.auto">create</property>
 
-        <mapping class="Dog" />
-
     </session-factory>
 </hibernate-configuration>

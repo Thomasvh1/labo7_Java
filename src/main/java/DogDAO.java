@@ -1,41 +1,30 @@
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
-import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
 import java.util.List;
 
 public class DogDAO {
 
-    private static SessionFactory factory;
-
-    public DogDAO() {
-        try {
-            factory = new Configuration().configure().buildSessionFactory();
+    public void CreateBreed(Dog dog) {
+        Transaction transaction = null;
+        try (Session session = HibernateUtil.getSessionFactory().openSession()) {
+            transaction = session.beginTransaction();
+            session.persist(dog);
+            transaction.commit();
         } catch (Exception e) {
-            System.out.println("Could not connect to the DB");
+            if (transaction != null) {
+                transaction.rollback();
+            }
+            e.printStackTrace();
         }
     }
 
-    public Dog saveDog(Dog dog) {
-        System.out.println(dog.getName());
-        Session session = factory.openSession();
-        Transaction transaction = session.beginTransaction();
-        Integer id = (Integer) session.save(dog);
-        transaction.commit();
-        session.close();
-        dog.setId(id);
-        return dog;
-    }
-
     public List<Dog> getBreeds() {
-        Session session = factory.openSession();
-
-        Query<Dog> query = session.createQuery("SELECT b FROM Dog b", Dog.class);
-        List<Dog> results = query.getResultList();
-
-        return results;
+        try (Session session = HibernateUtil.getSessionFactory().openSession()) {
+            return session.createQuery("SELECT d FROM Dog d", Dog.class).list();
+        }
     }
 
 

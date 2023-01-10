@@ -13,6 +13,7 @@ public class Main {
         //4. Annotations in orde brengen
         //5. HibernateUtil aanmaken & configureren
         //6. DAO aanmaken & configureren (queries)
+        //7. HibernateUtil toekennen aan sessionFactory
 
         DogDAO dao = new DogDAO();
 
@@ -22,7 +23,7 @@ public class Main {
             Files.lines(file.toPath())
                     .skip(1)
                     .map(line -> stringToDogBreed(line))
-                    .forEach(breed -> dao.saveDog(breed));
+                    .forEach(breed -> dao.CreateBreed(breed));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
